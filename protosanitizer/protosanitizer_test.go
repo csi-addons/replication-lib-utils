@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/kube-storage/spec/lib/go/replication"
+	"github.com/csi-addons/spec/lib/go/replication"
 	"github.com/stretchr/testify/assert"
 )
 
